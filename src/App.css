@@ -1,0 +1,27 @@
+#root {
+  max-width: 1280px;
+  padding: 2rem;
+}
+
+.section-header {
+  color: #22b222;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  font-size: 1rem;
+  font-weight: normal;
+}
+
+section p,
+address p {
+  margin: 0px;
+}
+
+ul {
+  padding: 0 1.25rem;
+  margin: 0.25rem 0;
+}
