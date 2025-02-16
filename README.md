@@ -20,6 +20,10 @@ npm install
 npm run dev
 ```
 
+## Project Overview
+
+This project is part of the [Frontend Projects on Roadmap.sh](https://roadmap.sh/projects/single-page-cv). It demonstrates modern frontend development practices including:
+
 ## Components
 
 ### Header Component
